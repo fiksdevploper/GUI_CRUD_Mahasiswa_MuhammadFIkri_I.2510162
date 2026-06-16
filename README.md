@@ -1,4 +1,4 @@
-# 📚 GUL_CRUD_Fikri — Aplikasi CRUD Data Siswa
+# 📚 GUI_CRUD_Fikri — Aplikasi CRUD Data Siswa
 
 Aplikasi desktop berbasis Java Swing untuk manajemen data siswa menggunakan konsep **Object-Oriented Programming (OOP)** dengan koneksi database MySQL.
 
